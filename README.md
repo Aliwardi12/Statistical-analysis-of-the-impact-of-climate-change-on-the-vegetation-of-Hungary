@@ -1,0 +1,2 @@
+# Statistical-analysis-of-the-impact-of-climate-change-on-the-vegetation-of-Hungary
+This repository contains the code for the thesis "Statistical Analysis of the Impact of Climate Change on the Vegetation of Hungary." It uses statistical and spatial techniques to analyze the Multiple Potential Natural Vegetation (MPNV) dataset and models the survival probability of various vegetation types under climate scenarios RCP4.5 and RCP8.5
