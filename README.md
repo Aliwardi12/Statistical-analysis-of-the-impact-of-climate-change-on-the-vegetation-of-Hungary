@@ -15,6 +15,8 @@ The study analyzes data from the Multiple Potential Natural Vegetation (MPNV) pr
 - **05_preparation_for_multivariate_analyses.R**: Script for preparing data for multivariate analysis.
 - **06_cluster_analysis.R**: Script for performing cluster analysis on the vegetation data.
 - **07_ordination.R**: Script for conducting ordination analysis.
+- **Variance.R** This script calculates and analyzes the variance within the dataset, which is crucial for understanding the spread and dispersion of vegetation 
+   types under different climate scenarios.
 
 ## Scripts Description
 
@@ -45,7 +47,11 @@ The study analyzes data from the Multiple Potential Natural Vegetation (MPNV) pr
 7. **07_ordination.R**
    - Performs ordination analysis to reduce the dimensionality of the data.
    - Helps in identifying major gradients and patterns in vegetation composition.
+     
+8. **variance.R**
+  - Calculates the variance for various vegetation metrics.
 
+    
 ## Usage
 
 1. Clone the repository to your local machine:
